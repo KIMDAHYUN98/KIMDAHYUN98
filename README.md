@@ -11,9 +11,9 @@ I wanna be a developer.
 <a href="https://www.instagram.com/dev.mong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ✏ **Stack**   
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=Java&logoColor=red">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-gray?style=for-the-badge&logo=oracle&logoColor=red">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
