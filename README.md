@@ -2,7 +2,7 @@
 
 I wanna be a developer.
 
-- 🌱 I’m currently learning Programming
+- 🌱 I’m currently learning Programming from College 🏫
 - 📫 How to reach me: hgzxc76@naver.com
 
 <a href="https://devmong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
