@@ -1,116 +1,24 @@
-### Hi there 👋
+### Hi there 👋 I'm KIMDAHYUN
 
-<!--
-**KIMDAHYUN98/KIMDAHYUN98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I wanna be a developer.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Programming
+- 📫 How to reach me: hgzxc76@naver.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-<div align="center">
+✏ **Stack**   
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-# Github Profilinator
 
-Generate creative GitHub profile readmes in few click!
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMDAHYUN98&show_icons=true)  
 
-<img src="https://img.shields.io/github/license/rishavanand/github-profilinator?style=for-the-badge">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOOHYOJEONG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/KIMDAHYUN98)               
 
-<img src="https://img.shields.io/github/forks/rishavanand/github-profilinator?style=for-the-badge">
-
-<img src="https://img.shields.io/github/stars/rishavanand/github-profilinator?style=for-the-badge">
-
-<img src="https://img.shields.io/github/issues/rishavanand/github-profilinator?style=for-the-badge">
-
-<img src="https://img.shields.io/github/issues-pr/rishavanand/github-profilinator?style=for-the-badge">
-
-<br />
-<br />
-
-<a href="https://profilinator.rishav.dev/" target="_blank">View Generator</a> · <a href="http://github.com/rishavanand" target="_blank">View Generated Profile</a> · <a href="https://github.com/rishavanand/github-profilinator/issues/new/choose" target="_blank">Report Bug</a> · <a href="https://github.com/rishavanand/github-profilinator/issues/new/choose" target="_blank">Request Feature</a>
-
-_Loved the project? Show your love to the developer by starring this repo._
-
-<br />
-
-<img src="src/images/demo.gif" style="width: 80%"/>
-
-</div>
-
----
-
-This project is aimed to simplify your GitHub profile generation process by providing creative components from all over the web which can be added in a few click. In the end, with the click of a button, markdown is auto-generated which you can directly add to your readmes.
-
----
-
-## 🧐 Feature list
-
--   [x] Image and text fields have multiple options like alignment, sizes, fit to screen
--   [x] Skill set filed
--   [x] Social badges field
--   [x] GitHub activity and language stats
--   [x] Dynamic blog posts
--   [x] Visitor counter
--   [x] Init with demo template
--   [x] Multi column support
--   [x] Customizable blocks and layouts
--   [x] Listening to from Spotify
--   [x] Multi template
--   [ ] Last tweet from Twitter
--   [ ] Last 3 uploads from Instagram
-
-## 🚀 Getting started
-
-This project is already deployed on <a href="https://profilinator.rishav.dev/" target="_blank">https://profilinator.rishav.dev</a>
-
-Instructions for local deployment are given below:
-
-1. Clone the repository
-
-```
-git clone git@github.com:rishavanand/github-profilinator.git
-```
-
-2. Enter the project directory
-
-```
-cd github-profilinator
-```
-
-3. Install dependencies
-
-```
-npm i
-```
-
-4. Start local dev server
-
-```
-npm start
-```
-
-5. View local deployment at [http://127.0.0.1:8000](http://127.0.0.1:8000)
-
-## 💫 Built on the shoulders of giants
-
--   [amazing github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by Anurag Hazra for creating detailed statistics
--   [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) by Anton Komarev for simplifying visitor counter
--   [blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow) by Gautam Krishna R which is a Genius use of Github Actions.
--   [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) by Kittinan which generated Spotify's currently listening album cover image.
-
-NOTE : All the logos/icons belong to their respective owners , we don't own them.
-
-## :heart: Supporting the project
-
-A simple star to this project repo is enough to keep me motivated on this project for days. If you find your self very much excited with this project let me know with a tweet.
-
-Thanks!
-
-Contributions are welcomed!
