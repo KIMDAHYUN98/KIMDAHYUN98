@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm KIMDAHYUN
 
-I wanna be a developer.
+I wanna be a developer. 
 
 - 🌱 I’m currently learning Programming from College 🏫
 - 📫 How to reach me: hgzxc76@naver.com
