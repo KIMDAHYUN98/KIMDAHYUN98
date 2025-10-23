@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm KIMDAHYUN
 
-I wanna be a developer. 
+I wanna be a developer who keeps growing. 
 
 - 🌱 I’m currently working at a Web App development Company.
 - 📫 How to reach me: dbkdh98@gmail.com
