@@ -2,8 +2,8 @@
 
 I wanna be a developer. 
 
-- 🌱 I’m currently learning Programming from College 🏫
-- 📫 How to reach me: hgzxc76@naver.com
+- 🌱 I’m currently working at a Web App development Company.
+- 📫 How to reach me: dbkdh98@gmail.com
 
 <a href="https://devmong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
 <a href="https://www.notion.so/b184f4488552437794655e26541a2ef4?v=4107416334b240c6b5819e8544636d5c" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
