@@ -27,5 +27,4 @@ I wanna be a developer who keeps growing.
 - Mobile apps with React Native
 - Clean Code
 
-![KIMDAHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMDAHYUN98&show_icons=true&theme=swift)<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hgzxc76)](https://solved.ac/hgzxc76)<br/>
